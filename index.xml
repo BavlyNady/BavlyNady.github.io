@@ -97,21 +97,21 @@
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>&lt;div class=&#34;centered-photo&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/photo.jpg&#34; alt=&#34;My Photo&#34; class=&#34;about-me-photo&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Your descriptions here.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;certifications&#34;&gt;&lt;strong&gt;Certifications&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;certifications&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/eCPPTv3.jpg&#34; alt=&#34;Certification One&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/eWPTv2.jpg&#34; alt=&#34;Certification Two&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;button-container&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;http://localhost:1313/certifications/&#34; class=&#34;yellow-button&#34;&gt;View All&lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;courses&#34;&gt;&lt;strong&gt;Courses&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;eCPPTv3 (ine)&lt;/li&gt;&#xA;&lt;li&gt;eWPTv2 (ine)&lt;/li&gt;&#xA;&lt;li&gt;CEH (EC-Council)&lt;/li&gt;&#xA;&lt;li&gt;eWPTX (ine)&lt;/li&gt;&#xA;&lt;li&gt;Active Directory Security Configuration &amp;amp; Management (ine)&lt;/li&gt;&#xA;&lt;li&gt;Azure Pentesting (ine)&lt;/li&gt;&#xA;&lt;li&gt;CCNA (IT-Gate Academy)&lt;/li&gt;&#xA;&lt;li&gt;eJPTv3 (ine)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;button-container&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;http://localhost:1313/courses/&#34; class=&#34;yellow-button&#34;&gt;View in Details&lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;!-- Keep the rest of the sections unchanged --&gt;</description>
+      <description>&lt;div class=&#34;centered-photo&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/photo.jpg&#34; alt=&#34;My Photo&#34; class=&#34;about-me-photo&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;I bring together cutting-edge AI tools with the extensive knowledge I&amp;rsquo;ve gained from over three years of studying well-known cybersecurity courses and practicing through 120 real-world, hands-on labs on platforms like INE, TryHackMe, and VulnHub. Staying updated on cybersecurity news and new vulnerabilities is a priority for me; I follow leading industry professionals and use software alerts to notify me whenever a new issue is identified in any technology I monitor.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Are You a HR?</title>
       <link>http://localhost:1313/are-you-a-hr/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/are-you-a-hr/</guid>
-      <description>&lt;div class=&#34;about-me-section&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/photo.JPG&#34; alt=&#34;My Photo&#34; class=&#34;about-me-photo&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;about-me-text&#34;&gt;&#xD;&#xA;    &lt;h2&gt;Name: Bavly Nady&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Age:&lt;/strong&gt; 20&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt; Business Information Systems, Helwan University (2023-2027)&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Cairo, Egypt&lt;/p&gt;&#xD;&#xA;     &lt;p&gt;&lt;strong&gt;TryHackMe Top&lt;/strong&gt; 10%&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;why-hiring-me&#34;&gt;&lt;strong&gt;Why Hiring Me&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;I bring together cutting-edge AI tools with the extensive knowledge I&amp;rsquo;ve gained from over three years of studying well-known cybersecurity courses and practicing through 120 real-world, hands-on labs on platforms like INE, TryHackMe, and VulnHub. Staying updated on cybersecurity news and new vulnerabilities is a priority for me; I follow leading industry professionals and use software alerts to notify me whenever a new issue is identified in any technology I monitor.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;about-me-section&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/about-me/photo.jpg&#34; alt=&#34;My Photo&#34; class=&#34;about-me-photo&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;about-me-text&#34;&gt;&#xD;&#xA;    &lt;h2&gt;Name: Bavly Nady&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Age:&lt;/strong&gt; 20&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt; Business Information Systems, Helwan University (2023-2027)&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Cairo, Egypt&lt;/p&gt;&#xD;&#xA;     &lt;p&gt;&lt;strong&gt;TryHackMe Top&lt;/strong&gt; 10%&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;why-hiring-me&#34;&gt;&lt;strong&gt;Why Hiring Me&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;I bring together cutting-edge AI tools with the extensive knowledge I&amp;rsquo;ve gained from over three years of studying well-known cybersecurity courses and practicing through 120 real-world, hands-on labs on platforms like INE, TryHackMe, and VulnHub. Staying updated on cybersecurity news and new vulnerabilities is a priority for me; I follow leading industry professionals and use software alerts to notify me whenever a new issue is identified in any technology I monitor.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Certifications</title>
       <link>http://localhost:1313/certifications/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/certifications/</guid>
-      <description>&lt;h2 id=&#34;my-certifications&#34;&gt;&lt;strong&gt;My Certifications&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;certifications-container&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/eCPPTv3.jpg&#34; alt=&#34;eCPPTv3 Certification&#34;&gt;&#xD;&#xA;    &lt;h3&gt;eCPPTv3&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/eWPTv2.jpg&#34; alt=&#34;eWPTv2 Certification&#34;&gt;&#xD;&#xA;    &lt;h3&gt;eWPTv2&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;!-- Add more certificates as needed --&gt;&#xD;&#xA;  &lt;!-- Example placeholders --&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/cert3.jpg&#34; alt=&#34;Certification Three&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Certification Three&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/cert4.jpg&#34; alt=&#34;Certification Four&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Certification Four&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <description>&lt;h2 id=&#34;my-certifications&#34;&gt;&lt;strong&gt;My Certifications&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;certifications-container&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/eCPPTv3.jpg&#34; alt=&#34;eCPPTv3 Certification&#34;&gt;&#xD;&#xA;    &lt;h3&gt;eCPPTv3&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/eWPTv2.jpg&#34; alt=&#34;eWPTv2 Certification&#34;&gt;&#xD;&#xA;    &lt;h3&gt;eWPTv2&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;!-- Add more certificates as needed --&gt;&#xD;&#xA;  &lt;!-- Example placeholders --&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/wireless.jpg&#34; alt=&#34;Certification Three&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Wireless Networks Penetration Testing&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/networkfund.jpg&#34; alt=&#34;Certification Four&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Computer Network Fundamentals&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;certificate-item&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/about-me/ielts.jpg&#34; alt=&#34;Certification Four&#34;&gt;&#xD;&#xA;    &lt;h3&gt;IELTS General&lt;/h3&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>ConvertMyVideo CTF Write-up</title>
@@ -122,45 +122,10 @@
     </item>
     <item>
       <title>eCPPTv3 Exam Preparation Guide</title>
-      <link>http://localhost:1313/exam-preparations/ecpptv3-exam-preparation-copy/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/exam-preparations/ecpptv3-exam-preparation-copy/</guid>
-      <description>&lt;h1 id=&#34;ecpptv3-exam-preparation-guide&#34;&gt;&lt;strong&gt;eCPPTv3 Exam Preparation Guide&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;eCPPTv3&lt;/strong&gt; (Certified Professional Penetration Tester) is a high-level certification that combines both web application penetration testing and network penetration testing. It typically requires around &lt;strong&gt;2-5 months&lt;/strong&gt; of dedicated study to pass.&lt;/p&gt;&#xA;&lt;h2 id=&#34;knowledge-required&#34;&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-active-directory-ad-attacks&#34;&gt;&lt;strong&gt;1. Active Directory (AD) Attacks&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;A solid understanding of all AD attacks is essential:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;AS-REP Roasting&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DCSync Attack&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kerberoasting&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pass the Ticket&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unconstrained Delegation&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domain Trust Attacks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-web-application-attacks-tools-and-frameworks&#34;&gt;&lt;strong&gt;2. Web Application Attacks, Tools, and Frameworks&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Proficiency in web application security, including:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>eCPPTv3 Exam Preparation Guide</title>
       <link>http://localhost:1313/exam-preparations/ecpptv3-exam-preparation/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/exam-preparations/ecpptv3-exam-preparation/</guid>
       <description>&lt;h1 id=&#34;ecpptv3-exam-preparation-guide&#34;&gt;&lt;strong&gt;eCPPTv3 Exam Preparation Guide&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;eCPPTv3&lt;/strong&gt; (Certified Professional Penetration Tester) is a high-level certification that combines both web application penetration testing and network penetration testing. It typically requires around &lt;strong&gt;2-5 months&lt;/strong&gt; of dedicated study to pass.&lt;/p&gt;&#xA;&lt;h2 id=&#34;knowledge-required&#34;&gt;&lt;strong&gt;Knowledge Required&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-active-directory-ad-attacks&#34;&gt;&lt;strong&gt;1. Active Directory (AD) Attacks&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;A solid understanding of all AD attacks is essential:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;AS-REP Roasting&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DCSync Attack&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kerberoasting&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pass the Ticket&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unconstrained Delegation&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domain Trust Attacks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-web-application-attacks-tools-and-frameworks&#34;&gt;&lt;strong&gt;2. Web Application Attacks, Tools, and Frameworks&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Proficiency in web application security, including:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

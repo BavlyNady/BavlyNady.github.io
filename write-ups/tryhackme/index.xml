@@ -15,33 +15,5 @@
       <guid>http://localhost:1313/write-ups/tryhackme/convertmyvideo/</guid>
       <description>&lt;!-- Write-up content here --&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Welcome, Hackers!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;ll be solving the &amp;ldquo;ConvertMyVideo&amp;rdquo; Capture The Flag (CTF) challenge. This medium-difficulty challenge requires a solid understanding of common web attacks and privilege escalation techniques. Let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-reconnaissance&#34;&gt;Initial Reconnaissance&lt;/h2&gt;&#xA;&lt;p&gt;First, we perform an Nmap scan to identify open ports on the target machine.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Image 1: Nmap Scan Results&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;1-nmap-scan.png&#34; alt=&#34;Nmap Scan&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The scan reveals that ports 22 (SSH) and 80 (HTTP) are open. Since we don&amp;rsquo;t have any valid SSH credentials, we&amp;rsquo;ll focus on exploring the website hosted on port 80.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example-copy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Example Write-up</title>
-      <link>http://localhost:1313/write-ups/tryhackme/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/write-ups/tryhackme/example/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
